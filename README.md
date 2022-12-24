@@ -1,31 +1,29 @@
-### Hi there 👋
+### Hi👋, I'm M. Sukron Kurniawan
 
 ### About Me
-![](images/google.jpg)
+![](images/profile.png)
 <br><br>
-3rd year IT student who is active in the campus community and outside the campus and who likes learning and challenges. Ever made an application for the election of the OSIS chairman and web-based goods lending as well as several other applications. Have an interest in web development and cloud computing as evidenced by several certificates and certifications. I am always open to further opportunities, collaborations, and offers.
+Menjadi Android Developer sejak tahun 2019.
 
 Thank You.
 
 ## Connect with Me
 
-[<img align="left" alt="linked-in" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/m-sukron-kurniawan/)
+[<img align="left" alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />](https://www.linkedin.com/in/m-sukron-kurniawan/)
+
+[<img align="left" alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/m-sukron-kurniawan/)
+
+[<img align="left" alt="WhatsApp" src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />](https://www.linkedin.com/in/m-sukron-kurniawan/)
 
 <br>
 <br>
 
 ## Skill
-<img align="left" alt="python" src="https://img.shields.io/badge/python%20-%2320232a.svg?&style=for-the-badge&logo=python&logoColor=white" />
+<img align="left" alt="Kotlin" src="https://img.shields.io/badge/Kotlin-0095D5?&style=for-the-badge&logo=kotlin&logoColor=white" />
 
-<img align="left" alt="flask" src="https://img.shields.io/badge/flask%20-%23316192.svg?&style=for-the-badge&logo=flask&logoColor=white" />
+<img align="left" alt="Java" src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" />
 
-<img align="left" alt="mysql" src="https://img.shields.io/badge/MySQL%20-2596be?logo=mysql&logoColor=white&style=for-the-badge" />
-
-<img align="left" alt="html" src="https://img.shields.io/badge/HTML%20-EC9E1E.svg?&style=for-the-badge&logo=HTML5&logoColor=white" />
-
-<img align="left" alt="css" src="https://img.shields.io/badge/CSS-1E7CEC?logo=CSS3&logoColor=white&style=for-the-badge" />
-
-<img align="left" alt="javascript" src="https://img.shields.io/badge/javascript%20-F5E015.svg?&style=for-the-badge&logo=javascript&logoColor=black" />
+<img align="left" alt="MySQL" src="https://img.shields.io/badge/MySQL%20-2596be?logo=mysql&logoColor=white&style=for-the-badge" />
 
 <br>
 <br>
