@@ -1,15 +1,10 @@
-## Hi👋, I'm M. Sukron Kurniawan
+## Hi👋, I'm Raden Mas
 
 ### About Me
 ![](images/profile.png)
 
 <br>
 <br>
-
-Menjadi Android Developer sejak tahun 2019.
-
-Thank You.
-
 
 ## 📱 Contact
 [<img align="left" alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />](mailto:radenmas.dev@gmail.com)
