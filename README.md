@@ -1,6 +1,5 @@
 ## Hi👋, I'm Raden Mas
 
-### About Me
 ![](images/profile.png)
 
 ## 📱 Contact
